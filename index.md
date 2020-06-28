@@ -8,3 +8,5 @@ This is testing branch with second description and i want to tell all the people
 * Persistence
 * Adventurous
 * Fairness
+
+> Fairness

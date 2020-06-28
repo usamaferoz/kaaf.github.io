@@ -10,3 +10,5 @@ This is testing branch with second description and i want to tell all the people
 * Fairness
 
 > Fairness
+
+<img src="http://kaafps.com/img/social-icons.png"/>
